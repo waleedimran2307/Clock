@@ -1,0 +1,13 @@
+.clock_app{
+  width: 100%;
+  background-color: grey;
+  padding: 0px 40px 10px 40px;
+}
+
+.clock_app h1{
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 10px;
+}
+
